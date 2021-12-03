@@ -108,3 +108,5 @@ D:\GitHub\GigMe\GigMe\GigMe\GigMe\obj\Debug\GigMe.dll
 D:\GitHub\GigMe\GigMe\GigMe\GigMe\obj\Debug\GigMe.pdb
 D:\GitHub\GigMe\GigMe\GigMe\GigMe\obj\Debug\GigMe.Migrations.InitialModel.resources
 D:\GitHub\GigMe\GigMe\GigMe\GigMe\obj\Debug\GigMe.csproj.GenerateResource.cache
+D:\GitHub\GigMe\GigMe\GigMe\GigMe\obj\Debug\GigMe.Migrations.CreateGigTable.resources
+D:\GitHub\GigMe\GigMe\GigMe\GigMe\obj\Debug\GigMe.Migrations.OverrideConventionsForGigsAndGenres.resources
