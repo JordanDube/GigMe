@@ -1,17 +1,26 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
+﻿using System.Linq;
 using System.Web.Mvc;
+using GigMe.Models;
+using GigMe.ViewModels;
 
 namespace GigMe.Controllers
 {
     public class GigsController : Controller
     {
-        // GET: Gigs
+        private readonly ApplicationDbContext _context;
+
+        public GigsController()
+        {
+            _context = new ApplicationDbContext();
+        }
+
         public ActionResult Create()
         {
-            return View();
+            var viewModel = new GigFormViewModel
+            {
+                Genres = _context.Genres.ToList()
+            };
+            return View(viewModel);
         }
     }
 }
