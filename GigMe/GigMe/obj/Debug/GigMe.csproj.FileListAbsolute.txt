@@ -110,3 +110,4 @@ D:\GitHub\GigMe\GigMe\GigMe\GigMe\obj\Debug\GigMe.Migrations.InitialModel.resour
 D:\GitHub\GigMe\GigMe\GigMe\GigMe\obj\Debug\GigMe.csproj.GenerateResource.cache
 D:\GitHub\GigMe\GigMe\GigMe\GigMe\obj\Debug\GigMe.Migrations.CreateGigTable.resources
 D:\GitHub\GigMe\GigMe\GigMe\GigMe\obj\Debug\GigMe.Migrations.OverrideConventionsForGigsAndGenres.resources
+D:\GitHub\GigMe\GigMe\GigMe\GigMe\obj\Debug\GigMe.Migrations.PopulateGenresTable.resources
